@@ -6,7 +6,7 @@ setup(
     description='read descript thag writed by korean what write in github.',
     author='du7ec',
     author_email='dutec6834@gmail.com',
-    url='https://github.com/FarAway6834/BlindRunaway',
+    url='https://github.com/FarAway6834StudyOfKaiban',
     install_requires=['blru'],
     py_modules=["StudyOfKaiban"],
     python_requires='>=3.6',
