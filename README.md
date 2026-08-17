@@ -40,3 +40,5 @@ RN = range(N)
 check(x, y, n, m) == inRange(x, n) and inRange(y, m)
 이다.
 ```
+
+## [Depandancy](https://github.com/FarAway6834/BlindRunaway)
